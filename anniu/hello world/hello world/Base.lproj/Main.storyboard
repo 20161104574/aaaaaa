@@ -76,6 +76,9 @@
                                 <rect key="frame" x="172" y="281" width="30" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="8"/>
+                                <connections>
+                                    <action selector="hh:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ggh-y2-IGN"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4yf-hK-ekE">
                                 <rect key="frame" x="278" y="281" width="30" height="30"/>
